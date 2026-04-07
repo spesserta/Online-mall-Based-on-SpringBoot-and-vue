@@ -1,6 +1,6 @@
 # Online-mall-Based-on-SpringBoot-and-vue
 
-# 仿照某网上购物平台创建的基于SpringBoot和Vue的在线商城❤️<br>
+# 大三的期末大作业——仿照某网上购物平台创建的基于SpringBoot和Vue的在线商城❤️<br>
 
 
 代码文件在master分支<br>
